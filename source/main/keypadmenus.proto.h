@@ -1,1 +1,1 @@
-void	KeyMenu(short theItem);void	FuncMenu(short theItem);
+void	KeyMenu(short, short);void	FuncMenu(short, short);
